@@ -1,6 +1,3 @@
-# BucheFetchUltra
-New buchefetch alternative 
-
 # 🌌 BucheFetchUltra
 ### Modern aesthetic system fetch for terminal enjoyers
 
@@ -43,6 +40,7 @@ chmod +x BUCHEFETCH.sh
 ```
 ./BUCHEFETCH.sh
 ```
+
 #### Or add it to your shell rc for autostart
 ```
 ~/BucheFetchUltra/BUCHEFETCH.sh

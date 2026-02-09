@@ -6,7 +6,7 @@
 Minimal. Clean. Customizable. Actually good-looking.
 
 ---
-![Buchefetch Demo] 
+![Buchefetch Demo](Screenshot_2026-02-09-15-52-11-878_com.termux-edit.jpg) 
 
 ## ✨ Features
 
@@ -36,6 +36,11 @@ cd BucheFetchUltra
 #### Make the script executable
 ```
 chmod +x BUCHEFETCH.sh
+```
+###Add custom ascii(recommended to add) 
+```
+Create a file dogna.txt(should be in home directory)
+Add any thing in it which you want to display
 ```
 #### You can run it by
 ```

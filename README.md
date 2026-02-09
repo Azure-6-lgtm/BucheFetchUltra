@@ -6,6 +6,7 @@
 Minimal. Clean. Customizable. Actually good-looking.
 
 ---
+![Buchefetch Demo] 
 
 ## ✨ Features
 
